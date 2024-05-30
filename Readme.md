@@ -38,13 +38,13 @@
 
 ## 🥇 Achievements
 
--Drafted a test plan for a complex project which was highly appreciated and considered as a template for upcoming projects
+- Drafted a test plan for a complex project which was highly appreciated and considered as a template for upcoming projects
 
--Assumed responsibility for a high risk application, gained Client’s trust by bringing the defect leakage to 0
+- Assumed responsibility for a high risk application, gained Client’s trust by bringing the defect leakage to 0
 
--Developed a framework and implemented tests using ReadyAPI tool to fully automate the testing of an API, resulting in a 75% reduction in manual effort
+- Developed a framework and implemented tests using ReadyAPI tool to fully automate the testing of an API, resulting in a 75% reduction in manual effort
 
--Took ownership for several automation initiatives and worked on POCs
+- Took ownership for several automation initiatives and worked on POCs
 
 
 ## 💼 Technical Skills
@@ -66,12 +66,6 @@
 ## Contact
 
 <p align="center"> Feel free to reach out to me via email <a href="mailto:subhathranaidu@gmail.com">subhathranaidu@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/subhathra-singaravelu">LinkedIn</a>.</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/subhathra-singaravelu//">
-    <img src="https://raw.githubusercontent.com/subhathrasingaravelu/subhathrasingaravelu.github.io/main/images/linkedin.svg" alt="Subhathra Singaravelu | LinkedIn" width="21px"/>
-  </a>
-</p>
-  
+ 
 
 <p align="center">Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.</p>
